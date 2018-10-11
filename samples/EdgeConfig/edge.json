@@ -4,7 +4,7 @@
         "test": {
             "kvms": [
                 {
-                    "name": "testing_3",
+                    "name": "testing_4",
 					"encrypted":true,
                     "entry": [
 						{
